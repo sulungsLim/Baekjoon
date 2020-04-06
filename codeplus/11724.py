@@ -20,7 +20,7 @@ for sum in range(b):
             hi[c] = list(set(hi[c]))
             print(hi)
             pass
-            
+            ## 망했다
         elif ls[sum][k] not in hi[c]:
             hi.append(ls[sum])
             c += 1
